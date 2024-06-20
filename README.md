@@ -1,3 +1,3 @@
 # DigHum101_IndividualProject
-/n
-## Significance of Word Counts
+print()
+## Significance of Word Counts in Literary Analysis
